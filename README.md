@@ -2,6 +2,8 @@
 
 Client-side Fabric mod for EFL players on EarthMC.
 
+**WIP! Goal will be to track stats in the future and make playing within the EFL as easy as possible!**
+
 ## Current Features
 
 - Starts a small HUD timer when a configured play-start trigger appears in `[Local]` player chat.
